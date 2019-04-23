@@ -1,0 +1,2 @@
+outfile1 filter=lfs diff=lfs merge=lfs -text
+outfile2 filter=lfs diff=lfs merge=lfs -text
